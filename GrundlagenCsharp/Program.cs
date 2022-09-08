@@ -4,5 +4,10 @@ Console.WriteLine("| O |");
 Console.WriteLine("|   |");
 Console.WriteLine("'~~~'");
 
+Console.string("Köln");
+
+
+
+
 
 //test
