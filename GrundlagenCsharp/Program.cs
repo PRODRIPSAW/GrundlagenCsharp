@@ -11,8 +11,9 @@ Console.WriteLine(Nachname);
 string Alter = "17";
 Console.WriteLine(Alter);
 
+string farbe = "rot";
+string "rot" = Console.ReadLine(V);
 
-
-
+Daniel ist 17 Jahre altund besucht die FOI21 des Georg - Simon - Ohm Berufskollegs.
 
 //test
